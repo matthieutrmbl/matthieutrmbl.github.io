@@ -1,0 +1,1 @@
+import{S as t}from"./gsap.dUMVSqEW.js";import{g as o}from"./index.xgxdCp6f.js";typeof window<"u"&&t.create({trigger:"#about",start:"top 60%",onEnter:()=>{o.to(".about-content",{y:0,opacity:1,duration:.8,ease:"power3.out"})}});

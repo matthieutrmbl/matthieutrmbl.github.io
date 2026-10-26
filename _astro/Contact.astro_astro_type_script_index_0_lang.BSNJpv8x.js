@@ -1,0 +1,1 @@
+import{S as o}from"./gsap.dUMVSqEW.js";import{g as t}from"./index.xgxdCp6f.js";typeof window<"u"&&o.create({trigger:"#contact",start:"top 60%",onEnter:()=>{t.to(".contact-content",{y:0,opacity:1,duration:1,ease:"power3.out"}),t.to(".marquee-wrapper",{y:0,opacity:1,duration:1,ease:"power3.out",delay:.3})}});
